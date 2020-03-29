@@ -31,7 +31,7 @@
             "proportion of symptomatic who get hospitalized": 0.50,
             "proportion of symptomatic who need ICU": 0.200,
             "mortality rate (of those who become symptomatic)": 0.1200
-        },
+        }
     },
     "Disease Course": {
         "Infectious": 4,
